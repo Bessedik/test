@@ -1,5 +1,6 @@
-config:
+config-dev:
     -jetlag
     -IPA
     -Icauna
     -blonde
+    
